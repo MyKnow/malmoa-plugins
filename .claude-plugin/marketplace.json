@@ -1,0 +1,14 @@
+{
+  "name": "malmoa",
+  "description": "MALMOA native plugin for shared project Context.",
+  "owner": {
+    "name": "MALMOA"
+  },
+  "plugins": [
+    {
+      "name": "malmoa",
+      "source": "./plugins/malmoa-agent",
+      "category": "productivity"
+    }
+  ]
+}

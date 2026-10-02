@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "package": "malmoa-mcp",
+  "version": "0.2.0",
+  "files": {
+    "malmoa_mcp-0.2.0-py3-none-any.whl": "abe4ca3d852e285e77e052e2fdfbe6402e68d22ed76714ada24f29f62371204e",
+    "requirements.txt": "1c4bf44e8027d045d280c83bdf09d10c61aaed582cfc6d3917255a6bcffb7e2a"
+  }
+}

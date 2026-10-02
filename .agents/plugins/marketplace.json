@@ -1,0 +1,20 @@
+{
+  "name": "malmoa",
+  "interface": {
+    "displayName": "MALMOA"
+  },
+  "plugins": [
+    {
+      "name": "malmoa",
+      "source": {
+        "source": "local",
+        "path": "./plugins/malmoa-agent"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
