@@ -24,7 +24,9 @@ class PluginParser(argparse.ArgumentParser):
 
 def run(command, *, capture=False):
     # Inherit stdin only for the human's interactive login. Never collect its output.
-    result = subprocess.run(command, text=True, capture_output=capture, check=False)
+    result = subprocess.run(
+        command, encoding="utf-8", errors="replace", capture_output=capture, check=False
+    )
     if result.returncode:
         raise SetupError("setup_command_failed")
     return result.stdout.strip() if capture else result.returncode
