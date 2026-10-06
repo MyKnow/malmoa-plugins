@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "package": "durumari-mcp",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "service": {
     "schema_version": 1,
     "gateway_origin": "https://durumari.kr"
   },
   "files": {
-    "durumari_mcp-0.3.7-py3-none-any.whl": "0d314fa4f2d352366cb7b804d4c31e850801621aab36bfc997f3d5c17657d17e",
+    "durumari_mcp-0.3.8-py3-none-any.whl": "d80567a6c17891ac6e6f1b6d7911d6bed2609e1996a22426bff7e511e44ed61d",
     "requirements.txt": "bd79607a5d462dfe36be70c817f6c97db9ba21239688cef8b79f838fa8561c5b"
   }
 }
