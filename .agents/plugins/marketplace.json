@@ -1,14 +1,14 @@
 {
-  "name": "malmoa",
+  "name": "durumari",
   "interface": {
-    "displayName": "MALMOA"
+    "displayName": "두루마리"
   },
   "plugins": [
     {
-      "name": "malmoa",
+      "name": "durumari",
       "source": {
         "source": "local",
-        "path": "./plugins/malmoa-agent"
+        "path": "./plugins/durumari-agent"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -16,5 +16,6 @@
       },
       "category": "Productivity"
     }
-  ]
+  ],
+  "description": "Durumari native plugin for shared project Context."
 }

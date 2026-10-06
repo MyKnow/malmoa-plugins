@@ -1,0 +1,9 @@
+{
+  "name": "durumari",
+  "version": "0.3.7",
+  "description": "Shared project Context from Durumari for Codex and Claude Code.",
+  "author": {
+    "name": "Durumari"
+  },
+  "skills": "./skills/"
+}

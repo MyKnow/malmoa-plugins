@@ -1,13 +1,13 @@
 {
-  "name": "malmoa",
-  "description": "MALMOA native plugin for shared project Context.",
+  "name": "durumari",
+  "description": "Durumari native plugin for shared project Context.",
   "owner": {
-    "name": "MALMOA"
+    "name": "Durumari"
   },
   "plugins": [
     {
-      "name": "malmoa",
-      "source": "./plugins/malmoa-agent",
+      "name": "durumari",
+      "source": "./plugins/durumari-agent",
       "category": "productivity"
     }
   ]
